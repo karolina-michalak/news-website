@@ -56,5 +56,9 @@
         text-align: center;
     }
 
+    .page-container > *:first-child{
+        grid-row: 1
+    }
+
 
 }
